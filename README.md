@@ -15,5 +15,21 @@ Productivity needs to be increased. So that farmers can get more pay from the sa
 6.	PH: Ph values of the soil. Plant nutrients leach from the soil much faster at PH values below 5.5 than from soils within the 5.5 to 7.0 range.
 7.	Rainfall: rainfall in mm. Plants use the moisture in the soil to replenish the water lost through transposition. Rainwater builds up the moisture levels in the soil and assures a healthy plant.
 8.	Label: names of different crops.22 different crops and they are exploratory data analysis carried out to fetch insights from the data.
+## ML Models:
+->	Decision Tree
+->	Naive Bayes
+->	Logistic Regression
+->	Random Forest 
+### Algorithms:
+Only four algorithms are used to predict the output. 
+>	Accuracy of the mood using Decision Tree is 90%
+>	Accuracy of the mood using Naïve Bayes is 90%
+>	Accuracy of the mood using Logistic Regression is 95.45454%
+>	Accuracy of the mood using Random Forest classifier is 99.3181%
+##Conclusion:
+India’s farmers are hard at work. Their productivity is threatened by nature’s factors. So, the solution will benefit farmers to maximize productivity in agriculture, reduce soil degradation. This would provide a prediction and hence benefit both farmer and environment. 
+
+Thanks...!!!
+
 
 
