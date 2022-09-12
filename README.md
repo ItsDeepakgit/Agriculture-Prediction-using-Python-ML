@@ -26,7 +26,7 @@ Only four algorithms are used to predict the output.
 >	Accuracy of the mood using Naïve Bayes is 90%
 >	Accuracy of the mood using Logistic Regression is 95.45454%
 >	Accuracy of the mood using Random Forest classifier is 99.3181%
-##Conclusion:
+## Conclusion:
 India’s farmers are hard at work. Their productivity is threatened by nature’s factors. So, the solution will benefit farmers to maximize productivity in agriculture, reduce soil degradation. This would provide a prediction and hence benefit both farmer and environment. 
 
 Thanks...!!!
